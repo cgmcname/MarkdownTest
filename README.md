@@ -24,4 +24,10 @@ for (int i = 0, i < 10; i++){
   System.out.println("i = " + i);
   }
 ```
+
+| Tables    | Are     | Cool     |
+| --------- |:-------:| --------:| 
+| col 3 is  | rt align|    $1600 |
+| col 2 is  | centered|      $12 |
+| col 1 is  | lt align|       $1 |
   
