@@ -16,3 +16,12 @@ Here are some ~~scratch or strikethrough characters~~.
 4. Fourth ordered list item
 
 [GitHub](https://ww.github.com)
+
+[GitHub](https://ww.github.com "GitHub Homepage")
+
+```java
+for (int i = 0, i < 10; i++){
+  System.out.println("i = " + i);
+  }
+```
+  
